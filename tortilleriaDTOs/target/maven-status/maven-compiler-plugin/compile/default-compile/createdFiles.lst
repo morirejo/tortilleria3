@@ -1,0 +1,9 @@
+com\mycompany\tortilleriadtos\VentaDTO.class
+reporte\ReporteVentasDTO.class
+com\mycompany\tortilleriadtos\VentaLocalDTO.class
+com\mycompany\tortilleriadtos\DetalleVentaDTO.class
+com\mycompany\tortilleriadtos\PedidoDTO.class
+reporte\VentaLineaDTO.class
+cierreCaja\CorteCajaDTO.class
+pedidoDomicilio\ClienteDTO.class
+pedidoDomicilio\VentaDomicilioDTO.class
